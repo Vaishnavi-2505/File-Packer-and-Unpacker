@@ -1,6 +1,16 @@
 # File-Packer-and-Unpacker Application
 
- Author : Vaishnavi Shingare  Created On : 21/07/2025  Language : Java  Input : Files from a directory (Packer), Packed file (Unpacker)  Output : Single packed file (Packer), Multiple extracted files (Unpacker)
+ Author : Vaishnavi Shingare
+
+ 
+ Created On : 21/07/2025
+
+ 
+ Language : Java  Input : Files from a directory (Packer), Packed file (Unpacker)
+ 
+ 
+ Output : Single packed file (Packer), Multiple extracted files (Unpacker)
+ 
 
 # Project Overview
 
@@ -30,8 +40,8 @@ The project also features a Graphical User Interface (GUI) for user-friendly int
 - Runs seamlessly on any system with a Java Runtime Environment (JRE).
 
 # PACKER DETAILS
-< Class Name: MarvellousPacker
-< Entry Point: Packer.java
+> Class Name: MarvellousPacker
+> Entry Point: Packer.java
 
 ### Functionality:
 
@@ -44,8 +54,8 @@ The project also features a Graphical User Interface (GUI) for user-friendly int
 - Prints progress and a summary report
   
 # UNPACKER DETAILS
-< Class Name: MarvellousUnpacker
-< Entry Point: Unpacker.java
+> Class Name: MarvellousUnpacker
+> Entry Point: Unpacker.java
 
 ### Functionality:
 
