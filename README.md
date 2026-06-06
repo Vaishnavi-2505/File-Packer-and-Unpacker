@@ -41,7 +41,7 @@ The project also features a Graphical User Interface (GUI) for user-friendly int
 
 # PACKER DETAILS
 > Class Name: MarvellousPacker
-
+> 
 > Entry Point: Packer.java
 
 ### Functionality:
@@ -49,14 +49,13 @@ The project also features a Graphical User Interface (GUI) for user-friendly int
 - Accepts a directory name and a target packed file name
 - Reads all files from the directory
 - Creates a 100-byte header for each file:
-  
-"filename filesize" (padded with spaces)
+  "filename filesize" (padded with spaces)
 - Writes the header and file data to the packed file
 - Prints progress and a summary report
   
 # UNPACKER DETAILS
 > Class Name: MarvellousUnpacker
-
+>
 > Entry Point: Unpacker.java
 
 ### Functionality:
