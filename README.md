@@ -1,9 +1,13 @@
 # File-Packer-and-Unpacker Application
 
  Author : Vaishnavi Shingare
+ 
  Created On : 21/07/2025
+ 
  Language : Java
+ 
  Input : Files from a directory (Packer), Packed file (Unpacker)
+ 
  Output : Single packed file (Packer), Multiple extracted files (Unpacker)
 
 # Project Overview
