@@ -1,18 +1,20 @@
 # File-Packer-and-Unpacker Application
 
-## Author : Vaishnavi Shingare
-## Created On : 21/07/2025
-## Language : Java
-## Input : Files from a directory (Packer), Packed file (Unpacker)
-## Output : Single packed file (Packer), Multiple extracted files (Unpacker)
+ Author : Vaishnavi Shingare
+ Created On : 21/07/2025
+ Language : Java
+ Input : Files from a directory (Packer), Packed file (Unpacker)
+ Output : Single packed file (Packer), Multiple extracted files (Unpacker)
 
-#Project Overview
+# Project Overview
 
 This project is a Java-based file utility tool that provides functionality for packing
 multiple files into a single archive and unpacking them back with all metadata
 preserved.
+
 To enhance security, the packed file is encrypted, and only authorized users can decrypt &
 extract the data.
+
 The project also features a Graphical User Interface (GUI) for user-friendly interaction.
 
 # Key Features
@@ -35,7 +37,7 @@ The project also features a Graphical User Interface (GUI) for user-friendly int
 < Class Name: MarvellousPacker
 < Entry Point: Packer.java
 
-## Functionality:
+### Functionality:
 
 - Accepts a directory name and a target packed file name
 - Reads all files from the directory
@@ -49,7 +51,7 @@ The project also features a Graphical User Interface (GUI) for user-friendly int
 < Class Name: MarvellousUnpacker
 < Entry Point: Unpacker.java
 
-##Functionality:
+### Functionality:
 
 - Accepts a packed file name
 - Reads 100-byte headers and extracts file names and sizes
