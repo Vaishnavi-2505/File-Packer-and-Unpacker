@@ -25,18 +25,18 @@ The project also features a Graphical User Interface (GUI) for user-friendly int
 
 # Key Features
 
-- File Packing
+1. File Packing
 - Combines multiple regular files into a single archive file.
 - Stores metadata (file name, size, timestamp) along with file content.
-- File Unpacking
+2. File Unpacking
 - Extracts individual files from the packed archive.
 - Restores all original metadata and file structure.
-- Data Security
+3. Data Security
 - Built-in encryption and decryption to protect packed files.
 - Graphical User Interface (GUI)
 - User-friendly GUI built in Java (Swing).
 - Provides simple options for selecting files, encrypting, packing, and unpacking.
-- Cross-platform
+4. Cross-platform
 - Runs seamlessly on any system with a Java Runtime Environment (JRE).
 
 # PACKER DETAILS
